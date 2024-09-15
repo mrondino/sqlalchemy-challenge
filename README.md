@@ -10,4 +10,6 @@ Code Source: I utilized the syntax from the 10-Advances-SQL/2/Activities/06-Stu_
 
 Author: The author for this project was me (Madeline Rondino)
 
-Acknowledgements: Please reference "Code Source" above. I also utlized the "Xpert Learning Assistant" for recommendations on how to format this README file.
+Acknowledgements: I was unable to complete the Flask portion of the project to get it up and running on my personal device, but was told by AskBCS that it should be correct.
+
+
