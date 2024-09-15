@@ -2,7 +2,7 @@
 
 Project Title: sqlalchemy-challenge
 
-Description: In this project, we are merging two datasets together and analysing the data based on certain fields. An analysis of the data is in the "Analysis" word file, please make sure to read this.
+Description: In this project, there is a SQL script that queries two tables. We are calling to that script with SQLAlchemy and then using Python to code.
 
 Getting Started: You will need to open the Jupyter Notebook code and run the engine to connect to SQL and the tables.
 
